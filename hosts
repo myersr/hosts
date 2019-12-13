@@ -5118,7 +5118,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 superstats.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.clickonometrics.pl
-0.0.0.0 s.youtube.com  # Blocking this will interfere with video watching history
+#0.0.0.0 s.youtube.com  # Blocking this will interfere with video watching history
 0.0.0.0 systweak.com
 #0.0.0.0 t2.hulu.com		# Uncomment to block Hulu.
 0.0.0.0 tag.crsspxl.com
