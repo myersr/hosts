@@ -5481,7 +5481,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 valueclick.net
 0.0.0.0 velocecdn.com
 0.0.0.0 vertical-stats.huffpost.com
-0.0.0.0 video-stats.video.google.com
+#0.0.0.0 video-stats.video.google.com
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 vip.clickzs.com
